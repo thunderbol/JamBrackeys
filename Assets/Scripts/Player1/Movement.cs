@@ -5,7 +5,7 @@ public class Movement : MonoBehaviour
     [Header("Variables de Movimiento")]
     Rigidbody2D rb;
     [SerializeField] private float speed = 5f;
-    [SerializeField] private float jumpPower = 6f;
+    [SerializeField] private float jumpPower = 3f;
     private float horizontalMove;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
