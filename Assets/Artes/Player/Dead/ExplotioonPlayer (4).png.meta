@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 2a892e66cc6509e45b9cda334b0e20a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5875271826853832861
+    second: ExplotioonPlayer (4)_0
+  - first:
+      213: -8757772141025696667
+    second: ExplotioonPlayer (4)_1
+  - first:
+      213: 8828722211764106846
+    second: ExplotioonPlayer (4)_2
+  - first:
+      213: 6378704788906089609
+    second: ExplotioonPlayer (4)_3
+  - first:
+      213: -6839510611528476951
+    second: ExplotioonPlayer (4)_4
+  - first:
+      213: -3567726927750553415
+    second: ExplotioonPlayer (4)_5
+  - first:
+      213: 1210721798114898296
+    second: ExplotioonPlayer (4)_6
+  - first:
+      213: 7148236958180869110
+    second: ExplotioonPlayer (4)_7
+  - first:
+      213: -2446640534725826177
+    second: ExplotioonPlayer (4)_8
+  - first:
+      213: 8018240271912069999
+    second: ExplotioonPlayer (4)_9
+  - first:
+      213: -595389720461715650
+    second: ExplotioonPlayer (4)_10
+  - first:
+      213: 7445697617983674784
+    second: ExplotioonPlayer (4)_11
+  - first:
+      213: -6138141678885019887
+    second: ExplotioonPlayer (4)_12
+  - first:
+      213: 4665968367764949573
+    second: ExplotioonPlayer (4)_13
+  - first:
+      213: -6184468405979564486
+    second: ExplotioonPlayer (4)_14
+  - first:
+      213: -4535827802556308327
+    second: ExplotioonPlayer (4)_15
+  - first:
+      213: -6091096630838123753
+    second: ExplotioonPlayer (4)_16
+  - first:
+      213: -796250920440528553
+    second: ExplotioonPlayer (4)_17
+  - first:
+      213: 1267444919309886004
+    second: ExplotioonPlayer (4)_18
+  - first:
+      213: 7796134019059208543
+    second: ExplotioonPlayer (4)_19
+  - first:
+      213: -8582482030037244066
+    second: ExplotioonPlayer (4)_20
+  - first:
+      213: -4509933618017506657
+    second: ExplotioonPlayer (4)_21
+  - first:
+      213: 6868223209290774447
+    second: ExplotioonPlayer (4)_22
+  - first:
+      213: -2228557760549091447
+    second: ExplotioonPlayer (4)_23
+  - first:
+      213: 7399578964651277175
+    second: ExplotioonPlayer (4)_24
+  - first:
+      213: 9180719068897861102
+    second: ExplotioonPlayer (4)_25
+  - first:
+      213: 172164469889545290
+    second: ExplotioonPlayer (4)_26
+  - first:
+      213: 7611905343219354631
+    second: ExplotioonPlayer (4)_27
+  - first:
+      213: 6315650132501965158
+    second: ExplotioonPlayer (4)_28
+  - first:
+      213: -3562875138096741787
+    second: ExplotioonPlayer (4)_29
+  - first:
+      213: -672690028824911390
+    second: ExplotioonPlayer (4)_30
+  - first:
+      213: 1685062271799775170
+    second: ExplotioonPlayer (4)_31
+  - first:
+      213: -6608147313421107044
+    second: ExplotioonPlayer (4)_32
+  - first:
+      213: -5927183096584190548
+    second: ExplotioonPlayer (4)_33
+  - first:
+      213: -5344765849288388054
+    second: ExplotioonPlayer (4)_34
+  - first:
+      213: 3718858568759054975
+    second: ExplotioonPlayer (4)_35
+  - first:
+      213: -908843799730191801
+    second: ExplotioonPlayer (4)_36
+  - first:
+      213: -9076164802961712054
+    second: ExplotioonPlayer (4)_37
+  - first:
+      213: 6347924976698256268
+    second: ExplotioonPlayer (4)_38
+  - first:
+      213: 5630693901141674542
+    second: ExplotioonPlayer (4)_39
+  - first:
+      213: 7544020780931826304
+    second: ExplotioonPlayer (4)_40
+  - first:
+      213: -1364234523359926349
+    second: ExplotioonPlayer (4)_41
+  - first:
+      213: 5614247861523273208
+    second: ExplotioonPlayer (4)_42
+  - first:
+      213: 330850085246388288
+    second: ExplotioonPlayer (4)_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675489e667d67ea0800000000000000
+      internalID: -5875271826853832861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e95e63a4267680800000000000000
+      internalID: -8757772141025696667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56fcc4331ce58a70800000000000000
+      internalID: 8828722211764106846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c94dda536b58850800000000000000
+      internalID: 6378704788906089609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6945a065d2511a0800000000000000
+      internalID: -6839510611528476951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b025d70343ec7ec0800000000000000
+      internalID: -3567726927750553415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f57a8f095dc010800000000000000
+      internalID: 1210721798114898296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f380b6f3a3a33360800000000000000
+      internalID: 7148236958180869110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 57
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7968928569cb0ed0800000000000000
+      internalID: -2446640534725826177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 67
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bec0b7b03864f60800000000000000
+      internalID: 8018240271912069999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 65
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d5f82430ccb7f0800000000000000
+      internalID: -595389720461715650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 60
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a993e8d88e645760800000000000000
+      internalID: 7445697617983674784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd9011aa0f0daa0800000000000000
+      internalID: -6138141678885019887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 56
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac6d55289d0c040800000000000000
+      internalID: 4665968367764949573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 64
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3636f060ca5c2aa0800000000000000
+      internalID: -6184468405979564486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9946a4a35a08d01c0800000000000000
+      internalID: -4535827802556308327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 60
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a052e2e3187ba0800000000000000
+      internalID: -6091096630838123753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751801fa10623f4f0800000000000000
+      internalID: -796250920440528553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 58
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e6db507ed69110800000000000000
+      internalID: 1267444919309886004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 52
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51dc5ba59e613c60800000000000000
+      internalID: 7796134019059208543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e47cc016e4e880800000000000000
+      internalID: -8582482030037244066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6971e44f7961c0800000000000000
+      internalID: -4509933618017506657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7bed39e94d05f50800000000000000
+      internalID: 6868223209290774447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987080136829211e0800000000000000
+      internalID: -2228557760549091447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 43
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfd7b1dd590b660800000000000000
+      internalID: 7399578964651277175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 47
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddf440a57786f70800000000000000
+      internalID: 9180719068897861102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44b5b65ca6a36200800000000000000
+      internalID: 172164469889545290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccc7e749be2a960800000000000000
+      internalID: 7611905343219354631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ad617552b5a750800000000000000
+      internalID: 6315650132501965158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 36
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5624ca650ff1e8ec0800000000000000
+      internalID: -3562875138096741787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a1fb9bff1aa6f0800000000000000
+      internalID: -672690028824911390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc907553b826710800000000000000
+      internalID: 1685062271799775170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904518a7052b44a0800000000000000
+      internalID: -6608147313421107044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 25
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca54661906a6ebda0800000000000000
+      internalID: -5927183096584190548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22d68127c393d5b0800000000000000
+      internalID: -5344765849288388054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f721dc83a2a0c9330800000000000000
+      internalID: 3718858568759054975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74204c021632363f0800000000000000
+      internalID: -908843799730191801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c5094033cfa0280800000000000000
+      internalID: -9076164802961712054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bede0322c581850800000000000000
+      internalID: 6347924976698256268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0288354e342e40800000000000000
+      internalID: 5630693901141674542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824b992eeeb1b860800000000000000
+      internalID: 7544020780931826304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7aec4dde3411de0800000000000000
+      internalID: -1364234523359926349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5571b3fa0d9ed40800000000000000
+      internalID: 5614247861523273208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplotioonPlayer (4)_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048c40d466a679400800000000000000
+      internalID: 330850085246388288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExplotioonPlayer (4)_0: -5875271826853832861
+      ExplotioonPlayer (4)_1: -8757772141025696667
+      ExplotioonPlayer (4)_10: -595389720461715650
+      ExplotioonPlayer (4)_11: 7445697617983674784
+      ExplotioonPlayer (4)_12: -6138141678885019887
+      ExplotioonPlayer (4)_13: 4665968367764949573
+      ExplotioonPlayer (4)_14: -6184468405979564486
+      ExplotioonPlayer (4)_15: -4535827802556308327
+      ExplotioonPlayer (4)_16: -6091096630838123753
+      ExplotioonPlayer (4)_17: -796250920440528553
+      ExplotioonPlayer (4)_18: 1267444919309886004
+      ExplotioonPlayer (4)_19: 7796134019059208543
+      ExplotioonPlayer (4)_2: 8828722211764106846
+      ExplotioonPlayer (4)_20: -8582482030037244066
+      ExplotioonPlayer (4)_21: -4509933618017506657
+      ExplotioonPlayer (4)_22: 6868223209290774447
+      ExplotioonPlayer (4)_23: -2228557760549091447
+      ExplotioonPlayer (4)_24: 7399578964651277175
+      ExplotioonPlayer (4)_25: 9180719068897861102
+      ExplotioonPlayer (4)_26: 172164469889545290
+      ExplotioonPlayer (4)_27: 7611905343219354631
+      ExplotioonPlayer (4)_28: 6315650132501965158
+      ExplotioonPlayer (4)_29: -3562875138096741787
+      ExplotioonPlayer (4)_3: 6378704788906089609
+      ExplotioonPlayer (4)_30: -672690028824911390
+      ExplotioonPlayer (4)_31: 1685062271799775170
+      ExplotioonPlayer (4)_32: -6608147313421107044
+      ExplotioonPlayer (4)_33: -5927183096584190548
+      ExplotioonPlayer (4)_34: -5344765849288388054
+      ExplotioonPlayer (4)_35: 3718858568759054975
+      ExplotioonPlayer (4)_36: -908843799730191801
+      ExplotioonPlayer (4)_37: -9076164802961712054
+      ExplotioonPlayer (4)_38: 6347924976698256268
+      ExplotioonPlayer (4)_39: 5630693901141674542
+      ExplotioonPlayer (4)_4: -6839510611528476951
+      ExplotioonPlayer (4)_40: 7544020780931826304
+      ExplotioonPlayer (4)_41: -1364234523359926349
+      ExplotioonPlayer (4)_42: 5614247861523273208
+      ExplotioonPlayer (4)_43: 330850085246388288
+      ExplotioonPlayer (4)_5: -3567726927750553415
+      ExplotioonPlayer (4)_6: 1210721798114898296
+      ExplotioonPlayer (4)_7: 7148236958180869110
+      ExplotioonPlayer (4)_8: -2446640534725826177
+      ExplotioonPlayer (4)_9: 8018240271912069999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
