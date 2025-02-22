@@ -7,7 +7,7 @@ public class DeadPlayer : MonoBehaviour
 
 
 [Header("Configuración de Muerte")]
-    public float deathDelay = 2f;  // Tiempo antes de reiniciar el nivel
+    public float deathDelay = 1f;  // Tiempo antes de reiniciar el nivel
     private bool isDead = false;
     
     private Rigidbody2D rb;
@@ -42,6 +42,8 @@ void Start()
 
         // Activa la animación de muerte
         anim.SetTrigger("Die");
+        //frenar animación
+        anim.enabled = false;
 
         // Inicia el reinicio del nivel después de un tiempo
         StartCoroutine(RestartLevel());
