@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4760014310645279378}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GorundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 4312836822869631341}
   - component: {fileID: 4964617346238956336}
   - component: {fileID: 5859888629413169127}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -185,8 +185,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.04}
-  m_Size: {x: 0.59, y: 1.13}
+  m_Offset: {x: 0.009368717, y: 0.044313148}
+  m_Size: {x: 0.87104315, y: 1.9918694}
   m_Direction: 0
 --- !u!114 &4312836822869631341
 MonoBehaviour:
@@ -208,7 +208,7 @@ MonoBehaviour:
   groundCheckRadius: 0.2
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!114 &4964617346238956336
 MonoBehaviour:
   m_ObjectHideFlags: 0

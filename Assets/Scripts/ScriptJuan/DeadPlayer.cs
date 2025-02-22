@@ -43,7 +43,7 @@ void Start()
         // Activa la animación de muerte
         anim.SetTrigger("Die");
         //frenar animación
-        anim.enabled = false;
+        //anim.enabled = false;
 
         // Inicia el reinicio del nivel después de un tiempo
         StartCoroutine(RestartLevel());
