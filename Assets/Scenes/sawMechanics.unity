@@ -433,6 +433,11 @@ Transform:
   - {fileID: 479641725}
   m_Father: {fileID: 1177251773}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &991105226 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4439030118239254632, guid: 69f85306336684e45b6a016bf0b2a9bc, type: 3}
+  m_PrefabInstance: {fileID: 6374525311217789245}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1177251772
 GameObject:
   m_ObjectHideFlags: 0
@@ -930,6 +935,55 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5626853757171636176, guid: 69f85306336684e45b6a016bf0b2a9bc, type: 3}
   m_PrefabInstance: {fileID: 6374525311217789245}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1935793078
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991105226}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3c1f581b7b981ff4f805adcbc56174d5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &2142106143 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2114628707747389442, guid: 1a444cf079da3a945bc4b592d10d2c76, type: 3}
+  m_PrefabInstance: {fileID: 7987742307997920719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2142106147
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142106143}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9035100c0d7c80f4abee93f48273d7e8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &6374525311217789245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -986,10 +1040,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7955816568903688921, guid: 69f85306336684e45b6a016bf0b2a9bc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -442609985343086266, guid: 502acc3afa240d944aaa3f8f9d0d8615, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4439030118239254632, guid: 69f85306336684e45b6a016bf0b2a9bc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1935793078}
   m_SourcePrefab: {fileID: 100100000, guid: 69f85306336684e45b6a016bf0b2a9bc, type: 3}
 --- !u!1001 &7987742307997920719
 PrefabInstance:
@@ -999,6 +1060,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1869966389}
     m_Modifications:
+    - target: {fileID: 747170730405276395, guid: 1a444cf079da3a945bc4b592d10d2c76, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -442609985343086266, guid: 502acc3afa240d944aaa3f8f9d0d8615, type: 3}
     - target: {fileID: 2114628707747389442, guid: 1a444cf079da3a945bc4b592d10d2c76, type: 3}
       propertyPath: m_Name
       value: Saw2
@@ -1050,7 +1115,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2114628707747389442, guid: 1a444cf079da3a945bc4b592d10d2c76, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2142106147}
   m_SourcePrefab: {fileID: 100100000, guid: 1a444cf079da3a945bc4b592d10d2c76, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

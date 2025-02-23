@@ -44,8 +44,9 @@ GameObject:
   - component: {fileID: 8585332408058431173}
   - component: {fileID: 5903247516428871519}
   - component: {fileID: 4312836822869631341}
-  - component: {fileID: 4964617346238956336}
+  - component: {fileID: 2190173728208269553}
   - component: {fileID: 5859888629413169127}
+  - component: {fileID: 8316052660171225800}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -63,7 +64,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.713, y: -1.161, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.415, y: 0.415, z: 0.415}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 4760014310645279378}
@@ -209,7 +210,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
---- !u!114 &4964617346238956336
+--- !u!114 &2190173728208269553
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,10 +219,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8039927379773281303}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22e5a7fc142a58a4086f591be4f75691, type: 3}
+  m_Script: {fileID: 11500000, guid: 6ab4188a2ebaa8247a7560b9ceec2ff6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathDelay: 2
+  confettiEffect: {fileID: 0}
 --- !u!95 &5859888629413169127
 Animator:
   serializedVersion: 7
@@ -244,3 +245,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8316052660171225800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8039927379773281303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e5a7fc142a58a4086f591be4f75691, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deathDelay: 2

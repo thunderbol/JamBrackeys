@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d39fd6457d136de41bc36464813baaaa
+guid: 2adce28e33365f54d956f3439e0e4e37
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6108582999615876129
-    second: Plataforma llamas - Layer 1 - 1_0
+      213: 1716532931307745039
+    second: Flor sierra ani - Layer 1 - Merged - 3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plataforma llamas - Layer 1 - 1_0
+      name: Flor sierra ani - Layer 1 - Merged - 3_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 81
-        width: 150
-        height: 19
+        x: 14
+        y: 21
+        width: 70
+        height: 69
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd3d7e26024f93ba0800000000000000
-      internalID: -6108582999615876129
+      spriteID: f0fabdf3b9952d710800000000000000
+      internalID: 1716532931307745039
       vertices: []
       indices: 
       edges: []

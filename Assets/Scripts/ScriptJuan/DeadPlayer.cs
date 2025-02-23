@@ -44,6 +44,8 @@ void Start()
         anim.SetTrigger("Die");
         //frenar animación
         //anim.enabled = false;
+        // Llamar a los efectos de muerte
+        GetComponent<PlayerDeathEffects>()?.PlayDeathEffects();
 
         // Inicia el reinicio del nivel después de un tiempo
         StartCoroutine(RestartLevel());

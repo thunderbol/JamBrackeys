@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Tramp
+  - PlatformN1
   layers:
   - Default
   - TransparentFX

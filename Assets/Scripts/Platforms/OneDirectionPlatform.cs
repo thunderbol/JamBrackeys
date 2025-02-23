@@ -5,14 +5,20 @@ public class OneDirectionPlatform : MonoBehaviour
     [Header("Variables Movimiento")]
     [SerializeField] private float speed = 3f;
     [SerializeField] private float startTime = 2f;
+    
     [Header("Platform Positions")]
     public Transform[] movePoints;
     private int i = 0;
     private float waitTime;
 
+
+    [Header("Animation Wink Platform")]
+    private Animator anim;
+
     void Start()
     {
         waitTime = startTime;//We initiate the wait time
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -52,4 +58,23 @@ public class OneDirectionPlatform : MonoBehaviour
     {
         collision.transform.SetParent(null);
     }
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            anim.SetTrigger("Wink");
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            anim.SetTrigger("PlatformN1");
+        }
+    }
+
+
 }
