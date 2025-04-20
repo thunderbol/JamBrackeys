@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
 
         // Control de animaciones
         anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+
         anim.SetBool("IsGrounded", isGrounded);
 
         // Salto
